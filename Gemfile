@@ -27,6 +27,10 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Bootstrap 4
 gem 'bootstrap', '~> 4.0.0.alpha4'
+# Jquery for rails 5.1+
+gem 'jquery-rails'
+#Popper for bootstrap
+gem 'popper_js'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
