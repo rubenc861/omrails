@@ -33,6 +33,8 @@ gem 'jquery-rails'
 gem 'popper_js'
 #User authentication gem
 gem 'devise'
+#Activeadmin gems
+gem 'activeadmin', github: 'activeadmin'
 
 
 group :development, :test do
